@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/AliExpress-Clone/static/css/main.abf64d43.chunk.css",
-    "main.js": "/AliExpress-Clone/static/js/main.88e56231.chunk.js",
-    "main.js.map": "/AliExpress-Clone/static/js/main.88e56231.chunk.js.map",
+    "main.js": "/AliExpress-Clone/static/js/main.e7331425.chunk.js",
+    "main.js.map": "/AliExpress-Clone/static/js/main.e7331425.chunk.js.map",
     "runtime-main.js": "/AliExpress-Clone/static/js/runtime-main.69addf6a.js",
     "runtime-main.js.map": "/AliExpress-Clone/static/js/runtime-main.69addf6a.js.map",
     "static/css/2.150d169a.chunk.css": "/AliExpress-Clone/static/css/2.150d169a.chunk.css",
-    "static/js/2.dd82124d.chunk.js": "/AliExpress-Clone/static/js/2.dd82124d.chunk.js",
-    "static/js/2.dd82124d.chunk.js.map": "/AliExpress-Clone/static/js/2.dd82124d.chunk.js.map",
+    "static/js/2.7456ed4b.chunk.js": "/AliExpress-Clone/static/js/2.7456ed4b.chunk.js",
+    "static/js/2.7456ed4b.chunk.js.map": "/AliExpress-Clone/static/js/2.7456ed4b.chunk.js.map",
     "static/js/3.1a748cdb.chunk.js": "/AliExpress-Clone/static/js/3.1a748cdb.chunk.js",
     "static/js/3.1a748cdb.chunk.js.map": "/AliExpress-Clone/static/js/3.1a748cdb.chunk.js.map",
     "index.html": "/AliExpress-Clone/index.html",
     "static/css/2.150d169a.chunk.css.map": "/AliExpress-Clone/static/css/2.150d169a.chunk.css.map",
     "static/css/main.abf64d43.chunk.css.map": "/AliExpress-Clone/static/css/main.abf64d43.chunk.css.map",
-    "static/js/2.dd82124d.chunk.js.LICENSE.txt": "/AliExpress-Clone/static/js/2.dd82124d.chunk.js.LICENSE.txt",
+    "static/js/2.7456ed4b.chunk.js.LICENSE.txt": "/AliExpress-Clone/static/js/2.7456ed4b.chunk.js.LICENSE.txt",
     "static/media/banner1.6284a067.png": "/AliExpress-Clone/static/media/banner1.6284a067.png",
     "static/media/banner2.5956b771.png": "/AliExpress-Clone/static/media/banner2.5956b771.png",
     "static/media/banner3.b624f0b1.png": "/AliExpress-Clone/static/media/banner3.b624f0b1.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.69addf6a.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.dd82124d.chunk.js",
+    "static/js/2.7456ed4b.chunk.js",
     "static/css/main.abf64d43.chunk.css",
-    "static/js/main.88e56231.chunk.js"
+    "static/js/main.e7331425.chunk.js"
   ]
 }
