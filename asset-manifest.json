@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.a771a242.chunk.css",
-    "main.js": "/static/js/main.c2d031d7.chunk.js",
-    "main.js.map": "/static/js/main.c2d031d7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.50faacf2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.50faacf2.js.map",
-    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
-    "static/js/2.a3f1e0df.chunk.js": "/static/js/2.a3f1e0df.chunk.js",
-    "static/js/2.a3f1e0df.chunk.js.map": "/static/js/2.a3f1e0df.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.a771a242.chunk.css.map": "/static/css/main.a771a242.chunk.css.map",
-    "static/js/2.a3f1e0df.chunk.js.LICENSE.txt": "/static/js/2.a3f1e0df.chunk.js.LICENSE.txt",
-    "static/media/banner1.6284a067.png": "/static/media/banner1.6284a067.png",
-    "static/media/banner2.5956b771.png": "/static/media/banner2.5956b771.png",
-    "static/media/banner3.b624f0b1.png": "/static/media/banner3.b624f0b1.png",
-    "static/media/banner4.4afa482a.png": "/static/media/banner4.4afa482a.png",
-    "static/media/Style.css": "/static/media/search.a47d5c9c.png"
+    "main.css": "/AliExpress-Clone/static/css/main.0db80ea5.chunk.css",
+    "main.js": "/AliExpress-Clone/static/js/main.0cac7298.chunk.js",
+    "main.js.map": "/AliExpress-Clone/static/js/main.0cac7298.chunk.js.map",
+    "runtime-main.js": "/AliExpress-Clone/static/js/runtime-main.fe0f78e0.js",
+    "runtime-main.js.map": "/AliExpress-Clone/static/js/runtime-main.fe0f78e0.js.map",
+    "static/css/2.150d169a.chunk.css": "/AliExpress-Clone/static/css/2.150d169a.chunk.css",
+    "static/js/2.24424b63.chunk.js": "/AliExpress-Clone/static/js/2.24424b63.chunk.js",
+    "static/js/2.24424b63.chunk.js.map": "/AliExpress-Clone/static/js/2.24424b63.chunk.js.map",
+    "index.html": "/AliExpress-Clone/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/AliExpress-Clone/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.0db80ea5.chunk.css.map": "/AliExpress-Clone/static/css/main.0db80ea5.chunk.css.map",
+    "static/js/2.24424b63.chunk.js.LICENSE.txt": "/AliExpress-Clone/static/js/2.24424b63.chunk.js.LICENSE.txt",
+    "static/media/banner1.6284a067.png": "/AliExpress-Clone/static/media/banner1.6284a067.png",
+    "static/media/banner2.5956b771.png": "/AliExpress-Clone/static/media/banner2.5956b771.png",
+    "static/media/banner3.b624f0b1.png": "/AliExpress-Clone/static/media/banner3.b624f0b1.png",
+    "static/media/banner4.4afa482a.png": "/AliExpress-Clone/static/media/banner4.4afa482a.png",
+    "static/media/Style.css": "/AliExpress-Clone/static/media/search.a47d5c9c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.50faacf2.js",
+    "static/js/runtime-main.fe0f78e0.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.a3f1e0df.chunk.js",
-    "static/css/main.a771a242.chunk.css",
-    "static/js/main.c2d031d7.chunk.js"
+    "static/js/2.24424b63.chunk.js",
+    "static/css/main.0db80ea5.chunk.css",
+    "static/js/main.0cac7298.chunk.js"
   ]
 }
