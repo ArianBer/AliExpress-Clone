@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/AliExpress-Clone/static/css/main.0db80ea5.chunk.css",
-    "main.js": "/AliExpress-Clone/static/js/main.492bce91.chunk.js",
-    "main.js.map": "/AliExpress-Clone/static/js/main.492bce91.chunk.js.map",
+    "main.js": "/AliExpress-Clone/static/js/main.499b7065.chunk.js",
+    "main.js.map": "/AliExpress-Clone/static/js/main.499b7065.chunk.js.map",
     "runtime-main.js": "/AliExpress-Clone/static/js/runtime-main.fe0f78e0.js",
     "runtime-main.js.map": "/AliExpress-Clone/static/js/runtime-main.fe0f78e0.js.map",
     "static/css/2.150d169a.chunk.css": "/AliExpress-Clone/static/css/2.150d169a.chunk.css",
-    "static/js/2.e36c25c8.chunk.js": "/AliExpress-Clone/static/js/2.e36c25c8.chunk.js",
-    "static/js/2.e36c25c8.chunk.js.map": "/AliExpress-Clone/static/js/2.e36c25c8.chunk.js.map",
+    "static/js/2.8217c088.chunk.js": "/AliExpress-Clone/static/js/2.8217c088.chunk.js",
+    "static/js/2.8217c088.chunk.js.map": "/AliExpress-Clone/static/js/2.8217c088.chunk.js.map",
     "index.html": "/AliExpress-Clone/index.html",
     "static/css/2.150d169a.chunk.css.map": "/AliExpress-Clone/static/css/2.150d169a.chunk.css.map",
     "static/css/main.0db80ea5.chunk.css.map": "/AliExpress-Clone/static/css/main.0db80ea5.chunk.css.map",
-    "static/js/2.e36c25c8.chunk.js.LICENSE.txt": "/AliExpress-Clone/static/js/2.e36c25c8.chunk.js.LICENSE.txt",
+    "static/js/2.8217c088.chunk.js.LICENSE.txt": "/AliExpress-Clone/static/js/2.8217c088.chunk.js.LICENSE.txt",
     "static/media/banner1.6284a067.png": "/AliExpress-Clone/static/media/banner1.6284a067.png",
     "static/media/banner2.5956b771.png": "/AliExpress-Clone/static/media/banner2.5956b771.png",
     "static/media/banner3.b624f0b1.png": "/AliExpress-Clone/static/media/banner3.b624f0b1.png",
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.fe0f78e0.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.e36c25c8.chunk.js",
+    "static/js/2.8217c088.chunk.js",
     "static/css/main.0db80ea5.chunk.css",
-    "static/js/main.492bce91.chunk.js"
+    "static/js/main.499b7065.chunk.js"
   ]
 }
