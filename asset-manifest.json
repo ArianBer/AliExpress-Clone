@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AliExpress-Clone/static/css/main.90728a26.chunk.css",
-    "main.js": "/AliExpress-Clone/static/js/main.255b956d.chunk.js",
-    "main.js.map": "/AliExpress-Clone/static/js/main.255b956d.chunk.js.map",
+    "main.js": "/AliExpress-Clone/static/js/main.9fa833f7.chunk.js",
+    "main.js.map": "/AliExpress-Clone/static/js/main.9fa833f7.chunk.js.map",
     "runtime-main.js": "/AliExpress-Clone/static/js/runtime-main.fe0f78e0.js",
     "runtime-main.js.map": "/AliExpress-Clone/static/js/runtime-main.fe0f78e0.js.map",
     "static/css/2.150d169a.chunk.css": "/AliExpress-Clone/static/css/2.150d169a.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.d0c126a1.chunk.js",
     "static/css/main.90728a26.chunk.css",
-    "static/js/main.255b956d.chunk.js"
+    "static/js/main.9fa833f7.chunk.js"
   ]
 }
