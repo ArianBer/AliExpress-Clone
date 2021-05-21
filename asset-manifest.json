@@ -1,28 +1,24 @@
 {
   "files": {
-    "main.css": "/AliExpress-Clone/static/css/main.90728a26.chunk.css",
-    "main.js": "/AliExpress-Clone/static/js/main.b266bcb5.chunk.js",
-    "main.js.map": "/AliExpress-Clone/static/js/main.b266bcb5.chunk.js.map",
+    "main.css": "/AliExpress-Clone/static/css/main.10d92e1f.chunk.css",
+    "main.js": "/AliExpress-Clone/static/js/main.c699c85e.chunk.js",
+    "main.js.map": "/AliExpress-Clone/static/js/main.c699c85e.chunk.js.map",
     "runtime-main.js": "/AliExpress-Clone/static/js/runtime-main.fe0f78e0.js",
     "runtime-main.js.map": "/AliExpress-Clone/static/js/runtime-main.fe0f78e0.js.map",
     "static/css/2.150d169a.chunk.css": "/AliExpress-Clone/static/css/2.150d169a.chunk.css",
-    "static/js/2.6f7a616a.chunk.js": "/AliExpress-Clone/static/js/2.6f7a616a.chunk.js",
-    "static/js/2.6f7a616a.chunk.js.map": "/AliExpress-Clone/static/js/2.6f7a616a.chunk.js.map",
+    "static/js/2.e4a1ceb0.chunk.js": "/AliExpress-Clone/static/js/2.e4a1ceb0.chunk.js",
+    "static/js/2.e4a1ceb0.chunk.js.map": "/AliExpress-Clone/static/js/2.e4a1ceb0.chunk.js.map",
     "index.html": "/AliExpress-Clone/index.html",
     "static/css/2.150d169a.chunk.css.map": "/AliExpress-Clone/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.90728a26.chunk.css.map": "/AliExpress-Clone/static/css/main.90728a26.chunk.css.map",
-    "static/js/2.6f7a616a.chunk.js.LICENSE.txt": "/AliExpress-Clone/static/js/2.6f7a616a.chunk.js.LICENSE.txt",
-    "static/media/banner1.6284a067.png": "/AliExpress-Clone/static/media/banner1.6284a067.png",
-    "static/media/banner2.5956b771.png": "/AliExpress-Clone/static/media/banner2.5956b771.png",
-    "static/media/banner3.b624f0b1.png": "/AliExpress-Clone/static/media/banner3.b624f0b1.png",
-    "static/media/banner4.4afa482a.png": "/AliExpress-Clone/static/media/banner4.4afa482a.png",
+    "static/css/main.10d92e1f.chunk.css.map": "/AliExpress-Clone/static/css/main.10d92e1f.chunk.css.map",
+    "static/js/2.e4a1ceb0.chunk.js.LICENSE.txt": "/AliExpress-Clone/static/js/2.e4a1ceb0.chunk.js.LICENSE.txt",
     "static/media/Style.css": "/AliExpress-Clone/static/media/search.a47d5c9c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fe0f78e0.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.6f7a616a.chunk.js",
-    "static/css/main.90728a26.chunk.css",
-    "static/js/main.b266bcb5.chunk.js"
+    "static/js/2.e4a1ceb0.chunk.js",
+    "static/css/main.10d92e1f.chunk.css",
+    "static/js/main.c699c85e.chunk.js"
   ]
 }
